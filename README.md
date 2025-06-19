@@ -1,6 +1,6 @@
 # VisionBreaker
 
-This repository is the public version of the **VisionBreaker** research project, , which is actively under development.
+This repository is the public version of the **VisionBreaker** project, which is actively under development.
 
 ### Project Overview
 
